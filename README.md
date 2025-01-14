@@ -2,6 +2,11 @@
 - <a href= "https://github.com/Solanedd/power-bi-bank-project/blob/main/cc_add.csv">Dataset</a>
 ## Dashbord Intraction 
 - <a href= "https://github.com/Solanedd/power-bi-bank-project/blob/main/HR%20Dashboard2.twbx">View Dashbord</a>
-
 ## Dashbord 
-![CREDIT CARD TRANSACTION REPORT]file:///C:/Users/MIsaye/Desktop/New%20folder%20(2)/bank2/CREDIT%20CARD%20TRANSACTION%20REPORT.pdf)# power-bi-bank-project
+
+![CCT 2 DASHBORD](https://github.com/user-attachments/assets/b1e8750f-b87e-40a0-90bd-cd8898bb8673)
+![CCT 2 DASHBORD](https://github.com/user-attachments/assets/f1057994-9798-4f2c-aaea-97fafc17b01e)
+
+
+
+
