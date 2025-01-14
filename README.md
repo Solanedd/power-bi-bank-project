@@ -5,7 +5,8 @@
 ## Dashbord 
 
 ![CCT 2 DASHBORD](https://github.com/user-attachments/assets/b1e8750f-b87e-40a0-90bd-cd8898bb8673)
-![CCT 2 DASHBORD](https://github.com/user-attachments/assets/f1057994-9798-4f2c-aaea-97fafc17b01e)
+![CCT1 DASHBORD](https://github.com/user-attachments/assets/4ce36987-eb63-4ad8-93ff-25b7d7c41666)
+
 
 
 
